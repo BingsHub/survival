@@ -143,5 +143,18 @@ flirt_mapping_dict = {
     '23/24 flirt xl -  die zauberflote': '23/24 die zauberflote flirt',
     '23/24 flirt xl - frida': '23/24 frida flirt',
     '19/20 opera flirt xl cosi fan tutte': '19/20 cosi fan tutte flirt',
-    '24/25 don quichot - flirt': '24/25 don quichot flirt'
-} 
+    '24/25 don quichot - flirt': '24/25 don quichot flirt' 
+}
+
+hh_replace_dict = {
+    'nuenen, gerwen en nederwetten': 'nuenen',
+    'beek (l.)': 'beek',
+    'groningen (gemeente)': 'groningen',
+    'hengelo (o.)': 'hengelo',
+    'laren (nh.)': 'laren',
+    "'s-gravenhage (gemeente)": 'den haag',
+    'middelburg (z.)': 'middelburg',
+    'rijswijk (zh.)': 'rijswijk',
+    'stein (l.)': 'stein',
+    'utrecht (gemeente)': 'utrecht'
+}
