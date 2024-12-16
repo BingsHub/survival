@@ -29,7 +29,5 @@ eggs/
 .vscode/
 
 # Environment
-.env
-.venv
 venv/
-ENV/
+survenv/
