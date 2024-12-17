@@ -7,3 +7,5 @@ jupyter
 ipykernel
 lifelines
 scikit-survival
+pyarrow
+scipy
