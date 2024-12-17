@@ -9,3 +9,5 @@ lifelines
 scikit-survival
 pyarrow
 scipy
+geopy
+fuzzywuzzy
