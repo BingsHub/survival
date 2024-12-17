@@ -11,3 +11,4 @@ pyarrow
 scipy
 geopy
 fuzzywuzzy
+rapidfuzz
