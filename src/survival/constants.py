@@ -158,3 +158,29 @@ hh_replace_dict = {
     'stein (l.)': 'stein',
     'utrecht (gemeente)': 'utrecht'
 }
+
+nonvisitor_ids = [
+    '0037q00000d5gxkqar',
+    '0037q00000d5gxlqar',
+    '0037q00000d5johqab',
+    '0037q000007cqjkqa0',
+    '0037q000007lgwlqa4',
+    '0037q00000d5tlwqaz',
+    '0037q00000boorlqa5',
+    '0037q00000bnnfiqat',
+    '0037q00000cmwoyqa0',
+    '0037q00000boj2xqah',
+    '0037q000007cxowqao',
+    '0037q00000bnidzqap',
+    '0037q00000boob7qap',
+    '0037q00000d5johqab',
+    '0037q00000boorsqap',
+    '0037q00000kgdkzqav',
+    '0037q00000boossqa5',
+    '0037q00000d5zabqa3',
+    '0037q00000boormqa5',
+    '0037q00000booxsqa5',
+    '0037q00000bool8qap',
+    '0037q00000dmjviqa1',
+    '0037q00000kgdwpqaf'
+]
