@@ -1,3 +1,4 @@
+import pandas as pd
 def show_all():
     return pd.option_context('display.max_rows', None, 'display.max_columns', None)
 
