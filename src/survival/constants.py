@@ -147,7 +147,6 @@ flirt_mapping_dict = {
 }
 
 hh_replace_dict = {
-    'nuenen, gerwen en nederwetten': 'nuenen',
     'beek (l.)': 'beek',
     'groningen (gemeente)': 'groningen',
     'hengelo (o.)': 'hengelo',
