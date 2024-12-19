@@ -12,3 +12,4 @@ scipy
 geopy
 fuzzywuzzy
 rapidfuzz
+lxml
