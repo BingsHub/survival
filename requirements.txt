@@ -13,3 +13,5 @@ geopy
 fuzzywuzzy
 rapidfuzz
 lxml
+xgboost
+xgbse
