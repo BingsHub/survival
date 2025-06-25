@@ -1,33 +1,13 @@
-# Data files
-src/data/raw/*
-src/data/processed/*
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-.Python
-env/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
-
-# Mac specific
-.DS_Store
-
-# VS Code
-.vscode/
-
 # Environment
 venv/
 survenv/
+
+# Model Pickles
+src/model_pickles/
+
+# data
+src/data/processed/
+src/data/raw/
+
+# models
+src/models/

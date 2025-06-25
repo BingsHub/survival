@@ -15,3 +15,6 @@ rapidfuzz
 lxml
 xgboost
 xgbse
+survshap
+optuna
+geohash
